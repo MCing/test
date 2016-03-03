@@ -2,8 +2,8 @@
 This is a git practice log.
 First we know that git is a distribute version control tool,different from cvs and svn.
 I have used svn before, and the main process is as follow:
-1.new a repository in your central server(in web or your own computer);
-2.creaet your document(plain text,program,but binary file is not prefer);
+1.create a repository in your central server(in web or your own computer);
+2.new files(plain text,program,but binary file is not prefer);
 3.commit your file to the central server.
 
 However, as a distribute tool,git let us build our repository in our computer and also push it to web to share with others.
@@ -12,6 +12,7 @@ However, as a distribute tool,git let us build our repository in our computer an
 3.add your files to your local repository(in a termporary area), which means git can track your added files;
 3.commit your added files from the termporary area to the real repository;
 4.push your repository to the central server.
+
 Commands :
 git init       //create a new repository
 git clone     //clone a repository from other place
